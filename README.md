@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heybadrinath
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m currently learning Front End Web Development
 - 💞️ I’m looking to collaborate on Creating web pages
 - 📫 How to reach me: ( ram.r@kalvium.community )( heybadrinath@gmail.com )( Instagram: heybadrinath )
 
