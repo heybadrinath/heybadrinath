@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heybadrinath
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning Full-Stack Development.
+- 🌱 I’m currently Working on Back-End Development.
 - 💞️ I’m looking to collaborate on Creating Projects
 - 📫 How to reach me: ( ram.r@kalvium.community )( heybadrinath@gmail.com )( Instagram: heybadrinath )
 
